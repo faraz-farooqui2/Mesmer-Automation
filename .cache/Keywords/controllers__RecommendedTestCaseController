@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "1E814A5BCBB6D7C6391508B7AD0DF5EE",
+  "keywordClasses": [
+    {
+      "name": "controllers.RecommendedTestCaseController",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deviceQueue_build</name>
+   <tag></tag>
+   <elementGuidId>9f7e483e-26c2-4b26-8e48-c689151dd0e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),&quot;Queue&quot;)]/parent::div[@class=&quot;tableTitleRow&quot;]/following-sibling::div[1]/div[@class=&quot;list&quot;]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),&quot;Queue&quot;)]/parent::div[@class=&quot;tableTitleRow&quot;]/following-sibling::div[1]/div[@class=&quot;list&quot;]/div/div/div[2]</value>
+   </webElementProperties>
+</WebElementEntity>

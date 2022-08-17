@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>status_getReplayStatus_1</name>
+   <tag></tag>
+   <elementGuidId>d740ec24-f885-4501-984b-80ca81d3b11a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;contentPanelContainer&quot;)]/preceding-sibling::div[contains(@class,&quot;titlePanelContent&quot;)]/div[contains(@class,&quot;statusTypePopver&quot;)]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;contentPanelContainer&quot;)]/preceding-sibling::div[contains(@class,&quot;titlePanelContent&quot;)]/div[contains(@class,&quot;statusTypePopver&quot;)]/div</value>
+   </webElementProperties>
+</WebElementEntity>

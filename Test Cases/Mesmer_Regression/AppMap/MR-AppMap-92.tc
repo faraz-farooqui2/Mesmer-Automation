@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-AppMap-76 | Verify user can wrap text of logs by selecting Wrap Text from Settings drop down list</description>
+   <name>MR-AppMap-92</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30640189-002d-4242-9519-c22a41a352ba</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>312cd0ad-0a3a-44c8-b8bd-c6c7984395fd</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e22dd54-824b-4138-bd8b-3c9eae147c76</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0bbdddbb-a331-4ac9-9749-6de6d4f8b73b</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc9665fc-cae2-4ace-a227-2aa2e2209225</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>238b1cc9-c6a9-4259-83e4-f45abd255d0f</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cb92c11-adeb-400d-8670-0ac80ac6e83c</id>
+      <masked>false</masked>
+      <name>xpathString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_AppMap/btn_history')</defaultValue>
+      <description></description>
+      <id>5d43b86e-60a3-4679-b6cc-1722f716d605</id>
+      <masked>false</masked>
+      <name>historyBtn</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>optionTagReplay</name>
+   <tag></tag>
+   <elementGuidId>74a8a2c6-4d33-48e8-a7fe-eca65c06e497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@class='dropdownWrap']/li[contains(text(),'replay')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@class='dropdownWrap']/li[contains(text(),'replay')]</value>
+   </webElementProperties>
+</WebElementEntity>

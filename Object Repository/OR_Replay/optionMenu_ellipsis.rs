@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>optionMenu_ellipsis</name>
+   <tag></tag>
+   <elementGuidId>74f4281b-e88f-4eff-b85d-5975a79b1be5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;deviceNameExecutionDate&quot;)]/div[contains(text(),&quot;Baseline&quot;)]/ancestor::div/following-sibling::div[@class=&quot;statusSection&quot;]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;deviceNameExecutionDate&quot;)]/div[contains(text(),&quot;Baseline&quot;)]/ancestor::div/following-sibling::div[@class=&quot;statusSection&quot;]/div/a</value>
+   </webElementProperties>
+</WebElementEntity>

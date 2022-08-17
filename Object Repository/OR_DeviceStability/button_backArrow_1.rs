@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_backArrow_1</name>
+   <tag></tag>
+   <elementGuidId>35252501-cf2f-432b-871b-606b3dd3f08a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-test-result-step-details/descendant::a[contains(@class,&quot;backArrow&quot;)]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-test-result-step-details/descendant::a[contains(@class,&quot;backArrow&quot;)]/span</value>
+   </webElementProperties>
+</WebElementEntity>

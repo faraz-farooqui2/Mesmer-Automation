@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_EditTitle</name>
+   <tag></tag>
+   <elementGuidId>b4594445-01a5-4645-b5cb-7f438d5e9ba0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;actionPanel&quot;]/div/i[@title=&quot;Edit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;actionPanel&quot;]/div/i[@title=&quot;Edit&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

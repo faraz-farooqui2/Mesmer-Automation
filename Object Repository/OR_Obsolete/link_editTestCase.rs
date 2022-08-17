@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_editTestCase</name>
+   <tag></tag>
+   <elementGuidId>1bcea43d-eef1-40ea-b853-73e3dc5e2a47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;devicesWrap&quot;]/descendant::div[1]/descendant::div[@class=&quot;hoverItems&quot;]/descendant::a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;devicesWrap&quot;]/descendant::div[1]/descendant::div[@class=&quot;hoverItems&quot;]/descendant::a[5]</value>
+   </webElementProperties>
+</WebElementEntity>

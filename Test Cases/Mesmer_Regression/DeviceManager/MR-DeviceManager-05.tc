@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select device filters from Device Manager</description>
+   <name>MR-DeviceManager-05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de5d35ba-a261-4617-8796-db45b2369356</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/header_status')</defaultValue>
+      <description></description>
+      <id>269f0529-23cd-4492-a5a1-3386d0bea8db</id>
+      <masked>false</masked>
+      <name>headerStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/header_platformName')</defaultValue>
+      <description></description>
+      <id>9653289d-5103-4490-83c1-264f023da29a</id>
+      <masked>false</masked>
+      <name>headerPlatform</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/header_Device')</defaultValue>
+      <description></description>
+      <id>db76e843-a8b8-4b93-bb85-722277d838c1</id>
+      <masked>false</masked>
+      <name>headerDevice</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/header_Type')</defaultValue>
+      <description></description>
+      <id>333dca7b-2b11-49b6-8cbc-48e8fcc032b8</id>
+      <masked>false</masked>
+      <name>headerType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/header_Resolution')</defaultValue>
+      <description></description>
+      <id>5dd8f06b-fb21-4d24-875b-89006a4a7640</id>
+      <masked>false</masked>
+      <name>headerResolution</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/header_Queue')</defaultValue>
+      <description></description>
+      <id>25cc1133-effa-48c9-83f3-e43ca06f8803</id>
+      <masked>false</masked>
+      <name>headerQueue</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/header_Reboot')</defaultValue>
+      <description></description>
+      <id>adff5d76-2cf7-4661-9099-9d902bdd2daa</id>
+      <masked>false</masked>
+      <name>headerReboot</name>
+   </variable>
+</TestCaseEntity>

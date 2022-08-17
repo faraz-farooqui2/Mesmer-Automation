@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_HelpCenterInner</name>
+   <tag></tag>
+   <elementGuidId>af0dc52a-aaeb-423e-8e6c-5a086a195d85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@id=&quot;intercom-messenger-sheet&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//iframe[@id=&quot;intercom-messenger-sheet&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

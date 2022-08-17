@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-Invite-02 | Invalid email in invite users section</description>
+   <name>MR-Invite-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb8c0c49-6398-4e4b-8dbf-9915e4db923b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_AddInviteIcon')</defaultValue>
+      <description></description>
+      <id>5c02d22f-4680-4d09-ab49-2b8ba3361414</id>
+      <masked>false</masked>
+      <name>AddInviteIcon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/input_InviteEmailField')</defaultValue>
+      <description></description>
+      <id>3014b9a9-8697-45d9-bfd7-c91f24e3dcc3</id>
+      <masked>false</masked>
+      <name>InviteEmailField</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/verify_InviteUserEmailAddress')</defaultValue>
+      <description></description>
+      <id>fc7c1947-9fe7-4671-b885-de0b1b86febb</id>
+      <masked>false</masked>
+      <name>InviteUserEmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_Invite')</defaultValue>
+      <description></description>
+      <id>c162cf68-e686-4bb0-8cc8-c089411cce55</id>
+      <masked>false</masked>
+      <name>Invite</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5941fa8-2500-4ffe-86e1-63f2b870a594</id>
+      <masked>false</masked>
+      <name>invalidEmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/txt_InvalidEmailAddress')</defaultValue>
+      <description></description>
+      <id>ba6ce145-663d-4795-a4db-bfde6278f980</id>
+      <masked>false</masked>
+      <name>txtInvalidEmailErrorMsg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/btn_Close')</defaultValue>
+      <description></description>
+      <id>9b7d1749-f199-48b7-9eb1-d9a6db1214eb</id>
+      <masked>false</masked>
+      <name>btnClose</name>
+   </variable>
+</TestCaseEntity>

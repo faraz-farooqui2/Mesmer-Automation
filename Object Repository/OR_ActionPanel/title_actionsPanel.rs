@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_actionsPanel</name>
+   <tag></tag>
+   <elementGuidId>1334ffcb-f523-49a3-a28e-5dfbde79bee4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-actions-panel/div[@class=&quot;navActionBar&quot;]/div[text()=&quot;Actions&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-actions-panel/div[@class=&quot;navActionBar&quot;]/div[text()=&quot;Actions&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

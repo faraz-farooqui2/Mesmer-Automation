@@ -1,0 +1,78 @@
+{
+	"recording_apps": [{
+			"projectName": "CertifyAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus6p",
+			"actionType": "Home",
+			"recording_Steps": [{
+				"offset_x": "0",
+				"offset_y": "0",
+				"action": "homebutton",
+				"action_delay": "15"
+			}]
+		},
+		{
+			"projectName": "CertifyAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus6p",
+			"actionType": "Recent",
+			"recording_Steps": [{
+				"offset_x": "0",
+				"offset_y": "0",
+				"action": "swipe",
+				"action_delay": "15"
+			}]
+		},
+		{
+			"projectName": "CertifyAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus6p",
+			"actionType": "Back",
+			"recording_Steps": [{
+
+				"offset_x": "0",
+				"offset_y": "0",
+				"action": "swipe",
+				"action_delay": "15"
+			}]
+		},
+		{
+			"projectName": "CertifyAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus5",
+			"recording_Steps": [{
+					"offset_x": "-118",
+					"offset_y": "-15",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+
+				{
+					"offset_x": "-100",
+					"offset_y": "-10",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+
+		}
+	]
+}

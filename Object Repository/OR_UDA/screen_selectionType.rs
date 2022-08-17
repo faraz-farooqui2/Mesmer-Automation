@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>screen_selectionType</name>
+   <tag></tag>
+   <elementGuidId>8c41a918-082d-44fd-868d-29fcc9256633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@containerclass,&quot;formSmallPopover&quot;)][2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@containerclass,&quot;formSmallPopover&quot;)][2]/div/span</value>
+   </webElementProperties>
+</WebElementEntity>

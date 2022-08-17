@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can see all the notifications under 'Notifications' tab in mesmer console</description>
+   <name>MS-Notifications-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ee6a910-d1b6-40da-a981-14cedfcdae65</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/verifyNotificationHeader')</defaultValue>
+      <description></description>
+      <id>ff082333-5d26-4950-be03-3fb0ea4507d7</id>
+      <masked>false</masked>
+      <name>notificationHeader</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/verifyMarkAllAsRead')</defaultValue>
+      <description></description>
+      <id>f7e46d6f-e284-422c-8a73-c083a8db6798</id>
+      <masked>false</masked>
+      <name>markAllAsRead</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/text_NoNotifications')</defaultValue>
+      <description></description>
+      <id>1c00cfbd-1416-4ec5-b7fa-3e420ac88bbc</id>
+      <masked>false</masked>
+      <name>textNoNotifications</name>
+   </variable>
+</TestCaseEntity>

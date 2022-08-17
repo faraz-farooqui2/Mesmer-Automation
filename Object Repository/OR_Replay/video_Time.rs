@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>video_Time</name>
+   <tag></tag>
+   <elementGuidId>fa4337d9-cceb-4a54-931f-cde82378564c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//vg-time-display[@vgfor=&quot;singleVideo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//vg-time-display[@vgfor=&quot;singleVideo&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

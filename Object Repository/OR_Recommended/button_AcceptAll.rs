@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AcceptAll</name>
+   <tag></tag>
+   <elementGuidId>f7c3f583-7ec2-4864-86b2-1b6933ebb613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;actionItems&quot;]/a[@class=&quot;acceptTests&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;actionItems&quot;]/a[@class=&quot;acceptTests&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

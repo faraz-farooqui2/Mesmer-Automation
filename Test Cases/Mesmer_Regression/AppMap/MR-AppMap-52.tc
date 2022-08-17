@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AppMap-History-52 - Verify Crawl History icon should be available on AppMapp page</description>
+   <name>MR-AppMap-52</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e360fa2-f688-42f9-91a6-47aec6b62433</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4adb55fd-4836-44d8-8638-e5df2900611e</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78d3d87f-ee5a-4443-8469-07bd76d9a253</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0669ad5-81fb-4a3a-9dc4-7d7a19bd82e9</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd6e61da-f800-4a9f-bb3f-4ba0b5a41a9d</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>25e82495-1902-4785-8885-c33fe4495689</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73dc4999-d478-4f99-a4ed-3aaf6a47bf8d</id>
+      <masked>false</masked>
+      <name>xpathString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_AppMap/icon_historyIcon')</defaultValue>
+      <description></description>
+      <id>8431f591-4f44-47da-bd29-520e5c22f339</id>
+      <masked>false</masked>
+      <name>btnHistory</name>
+   </variable>
+</TestCaseEntity>

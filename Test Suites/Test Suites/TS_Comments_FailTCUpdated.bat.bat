@@ -1,0 +1,1 @@
+katalon -noSplash  -runMode=console -projectPath="\Users\mesmer\Katalon Studio\MesmerAutomationProject\MesmerAutomationProject.prj" -retry=0 -testSuitePath="Test Suites/Test Suites/TS_Comments_20191015_102552" -executionProfile="default" -browserType="Chrome"

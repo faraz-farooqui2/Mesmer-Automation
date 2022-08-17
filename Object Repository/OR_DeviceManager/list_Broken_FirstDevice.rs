@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_Broken_FirstDevice</name>
+   <tag></tag>
+   <elementGuidId>92702c1a-30bd-494f-bd1f-b2e97aa715c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'list')]/div[1]/descendant::div[@class='statusText']/div[contains(text(),'Rebooting')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'list')]/div[1]/descendant::div[@class='statusText']/div[contains(text(),'Rebooting')]</value>
+   </webElementProperties>
+</WebElementEntity>

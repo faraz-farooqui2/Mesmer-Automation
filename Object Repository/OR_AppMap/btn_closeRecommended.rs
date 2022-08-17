@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_closeRecommended</name>
+   <tag></tag>
+   <elementGuidId>830d1f8c-bbfe-4ec1-b28c-db6e356eae85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(text(),'Tests')]/parent::div/preceding-sibling::div[@class='closeNav']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tests')]/parent::div/preceding-sibling::div[@class='closeNav']</value>
+   </webElementProperties>
+</WebElementEntity>

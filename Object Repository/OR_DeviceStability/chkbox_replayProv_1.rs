@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chkbox_replayProv_1</name>
+   <tag></tag>
+   <elementGuidId>8d7a8fa0-9ec9-4f25-80bd-5118155580a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;&lt;pChk>&quot;]/parent::div/following-sibling::div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;&lt;pChk>&quot;]/parent::div/following-sibling::div/label</value>
+   </webElementProperties>
+</WebElementEntity>

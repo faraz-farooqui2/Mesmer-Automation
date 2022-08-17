@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>xpath_crawlCounts</name>
+   <tag></tag>
+   <elementGuidId>b104cc73-f435-462e-81f9-8b88893a0eff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'crawlHistory')]/div[contains(@class,'historySection')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'crawlHistory')]/div[contains(@class,'historySection')]</value>
+   </webElementProperties>
+</WebElementEntity>

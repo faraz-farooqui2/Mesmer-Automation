@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_VirtualAndroidDevices</name>
+   <tag></tag>
+   <elementGuidId>9526c203-14fe-4893-9848-c15c300240a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'Android')]/parent::div/following-sibling::div/div[contains(@class,'virtual')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'Android')]/parent::div/following-sibling::div/div[contains(@class,'virtual')]</value>
+   </webElementProperties>
+</WebElementEntity>

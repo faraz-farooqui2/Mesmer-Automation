@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_PhysicaliOSDevices</name>
+   <tag></tag>
+   <elementGuidId>1cfb5b29-e68a-497f-a69f-8e52fead5e23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'iOS')]/parent::div/following-sibling::div/div[contains(@class,'physical')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'iOS')]/parent::div/following-sibling::div/div[contains(@class,'physical')]</value>
+   </webElementProperties>
+</WebElementEntity>

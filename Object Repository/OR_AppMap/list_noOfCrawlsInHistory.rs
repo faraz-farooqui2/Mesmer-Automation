@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_noOfCrawlsInHistory</name>
+   <tag></tag>
+   <elementGuidId>af3e6bd8-a337-47b4-b5fb-c3ed4522ace3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'crawlHistory')]/div[contains(@class,'historySection')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'crawlHistory')]/div[contains(@class,'historySection')]</value>
+   </webElementProperties>
+</WebElementEntity>

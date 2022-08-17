@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MR-Notifications-04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a7c720f-1560-497d-b5da-e69eb166ec89</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/button_Notifications')</defaultValue>
+      <description></description>
+      <id>648e993d-4801-4896-b04e-11bad3e3f8ee</id>
+      <masked>false</masked>
+      <name>btnNotify</name>
+   </variable>
+</TestCaseEntity>

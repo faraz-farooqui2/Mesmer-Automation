@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taskAwaitingADevice_crawlFilter</name>
+   <tag></tag>
+   <elementGuidId>4287ec8a-1a72-4bb6-9ea9-a13dc9d6a3b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;textLinks&quot;]/a[contains(text(),&quot;Crawl&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;textLinks&quot;]/a[contains(text(),&quot;Crawl&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

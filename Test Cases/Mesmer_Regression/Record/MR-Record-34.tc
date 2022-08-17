@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user should be able to record an iOS test case (Physical/Simulator)</description>
+   <name>MR-Record-34</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ae2d030-ea28-440a-a633-69e609f6d37f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01e85aad-6853-4094-8e72-6f8f3765eef1</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d4270ce-831c-423a-892e-34798edd4832</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f61eaaa4-d88e-43c8-8012-fdb62403439c</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>987f3a6c-8e9a-4802-bf9b-412a4db8b505</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8396afd-6c18-4476-b7c5-a91438cde1a6</id>
+      <masked>false</masked>
+      <name>xpathString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>79a11ee8-ed10-4c63-ade0-5d4d886a229e</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+</TestCaseEntity>

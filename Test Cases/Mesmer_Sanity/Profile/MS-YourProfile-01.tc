@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MS-Your Profile-01 | Verify that user can Edit and Update profile in 'Your Profile' page successfully.</description>
+   <name>MS-YourProfile-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12b3d078-5141-45f7-89d1-73e6faba2bd9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_Profile/button_updateProfile')</defaultValue>
+      <description></description>
+      <id>e1bd076e-b0b2-42c3-9eac-bf6243b89369</id>
+      <masked>false</masked>
+      <name>buttonUpdateUserProfile</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Profile/input_nameField')</defaultValue>
+      <description></description>
+      <id>ef89c40a-c34c-40e6-9e88-37b8ff123fe7</id>
+      <masked>false</masked>
+      <name>inputNameField</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Profile/text_YourProfile')</defaultValue>
+      <description></description>
+      <id>a33d2856-3da1-4530-a6a3-b678beef4194</id>
+      <masked>false</masked>
+      <name>headerTextYourProfile</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Profile/input_nameMandatoryError')</defaultValue>
+      <description></description>
+      <id>7403696a-c1ae-4b78-9273-9f6f7ab1fb56</id>
+      <masked>false</masked>
+      <name>nameValidationError</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Profile/image_clickAatar')</defaultValue>
+      <description></description>
+      <id>d2b9d9b5-4139-4344-adc1-b9ade1a53455</id>
+      <masked>false</masked>
+      <name>userCurrentAvatar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Profile/image_selectNewAvatar')</defaultValue>
+      <description></description>
+      <id>b43fb3f4-8316-4b1d-a6c8-990d542e3673</id>
+      <masked>false</masked>
+      <name>userSelectNewAvatar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Profile/text_chooseYourAvatar')</defaultValue>
+      <description></description>
+      <id>23cb23d0-b046-41f0-8e8b-b72462e40184</id>
+      <masked>false</masked>
+      <name>headerTextChooseYourAvatar</name>
+   </variable>
+</TestCaseEntity>

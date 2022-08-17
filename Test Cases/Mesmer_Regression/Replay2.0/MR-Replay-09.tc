@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-Replay-01 | Verify clicking replay icon should show the list of all devices</description>
+   <name>MR-Replay-09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5b78cf0-cb5c-44d6-8f1b-f6a80e5f75a9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79cbcb24-2013-4f71-80f2-e85eeaff21c9</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77af1e01-bad2-47e9-9b78-3f0242110b83</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08d9c1f2-8af8-4462-9adc-40c0e0fd6177</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>181f3f4e-713c-4edc-80af-1aa24f2482be</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3bcf612-3bee-4e82-be4c-5681a661c0a7</id>
+      <masked>false</masked>
+      <name>xpString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>3313ba5a-8cba-4e71-8793-b9e5246da909</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_updatedTC</name>
+   <tag></tag>
+   <elementGuidId>dfbb1067-5522-493b-b3c3-ba6cf1701ded</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;title&quot;]/span[@title=&quot;AAA&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;title&quot;]/span[@title=&quot;AAA&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

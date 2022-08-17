@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_AndroidDevice</name>
+   <tag></tag>
+   <elementGuidId>20d9be1b-1ef0-45e4-a739-f6d6e09bf76c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;infoText&quot;)]/span[contains(text(),&quot;Android&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;infoText&quot;)]/span[contains(text(),&quot;Android&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_iOSDevice</name>
+   <tag></tag>
+   <elementGuidId>753742b4-ea44-4b2b-82aa-e4ee03361bad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;infoText&quot;)]/span[contains(text(),&quot;iOS&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;infoText&quot;)]/span[contains(text(),&quot;iOS&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

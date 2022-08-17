@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_buildNumber</name>
+   <tag></tag>
+   <elementGuidId>0ba2e623-daab-4c14-aa20-a128d567438f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;projectDD&quot;]/div[@class=&quot;builds-list&quot;]/div/div/div[2]/div[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;projectDD&quot;]/div[@class=&quot;builds-list&quot;]/div/div/div[2]/div[1]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_IgnoreCase</name>
+   <tag></tag>
+   <elementGuidId>f8bc5114-fc7c-4814-bf0a-d5131039908d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'Ignore')]/preceding-sibling::input[@type='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'Ignore')]/preceding-sibling::input[@type='checkbox']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8E0781A7397CD01C5321A36C4BAC5B83",
+  "keywordClasses": [
+    {
+      "name": "com.mesmer.KTRequestHandler",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

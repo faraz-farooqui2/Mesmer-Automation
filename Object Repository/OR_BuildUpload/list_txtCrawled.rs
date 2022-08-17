@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_txtCrawled</name>
+   <tag></tag>
+   <elementGuidId>012b8122-8b64-4cd1-8d5d-aca2fffed545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;builds-list&quot;]/div[1]/div/div[2]/div/span[2]/span[contains(text(),&quot;Crawled&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;builds-list&quot;]/div[1]/div/div[2]/div/span[2]/span[contains(text(),&quot;Crawled&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

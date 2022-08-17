@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_Edit_Tick</name>
+   <tag></tag>
+   <elementGuidId>5f747153-d56f-4f8d-9161-50b84e439973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.tick.CP.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tick CP ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutalign</name>
+      <type>Main</type>
+      <value>start center</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>OK</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper translateFullScreenExit&quot;]/app-manage-test-cases[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;contentPanelContainer&quot;]/div[@class=&quot;contentPanel&quot;]/div[@class=&quot;devicesWrap&quot;]/app-manage-test-case-list[@class=&quot;vScrollCards ng-tns-c17-5&quot;]/div[@class=&quot;testcase ng-tns-c17-5 ng-star-inserted&quot;]/div[@class=&quot;testcase-detail&quot;]/app-test-case-tile-header[@class=&quot;ng-tns-c17-5&quot;]/div[@class=&quot;actionPanel active passed&quot;]/div[@class=&quot;actionPaneLeft&quot;]/div[@class=&quot;title-container&quot;]/div[@class=&quot;titleWrap ng-star-inserted&quot;]/div[@class=&quot;input-field titleNOF ng-star-inserted&quot;]/i[@class=&quot;tick CP ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_moveFromOtherProject</name>
+   <tag></tag>
+   <elementGuidId>063a9640-68a3-47cd-a10b-1c4b6284740c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='tileStream']/a/div[@class='mat-card-title']/span[@title='MoveToCBTL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='tileStream']/a/div[@class='mat-card-title']/span[@title='MoveToCBTL']</value>
+   </webElementProperties>
+</WebElementEntity>

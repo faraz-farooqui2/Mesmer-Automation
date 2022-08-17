@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>appMap_deviceState</name>
+   <tag></tag>
+   <elementGuidId>aa741b9b-b9fc-4cb7-8c8f-17d38cb735e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;deviceDetails&quot;)]/div[@class=&quot;deviceState&quot;]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;deviceDetails&quot;)]/div[@class=&quot;deviceState&quot;]/div/div</value>
+   </webElementProperties>
+</WebElementEntity>

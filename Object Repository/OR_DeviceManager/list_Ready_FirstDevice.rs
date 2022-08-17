@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_Ready_FirstDevice</name>
+   <tag></tag>
+   <elementGuidId>58570f3e-8583-4eaf-86d7-ffa0f42be6a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'list')]/div[1]/descendant::div[@class='statusText']/div[contains(text(),'Ready')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'list')]/div[1]/descendant::div[@class='statusText']/div[contains(text(),'Ready')]</value>
+   </webElementProperties>
+</WebElementEntity>

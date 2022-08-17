@@ -1,0 +1,70 @@
+{
+  "keywordFileContentHash": "E854E49FFC1C20CF28421326DD5D9AEE",
+  "keywordClasses": [
+    {
+      "name": "com.mesmer.Utility_AppMap",
+      "keywordMethods": [
+        {
+          "name": "CountCrawlsInHistory",
+          "parameters": [
+            {
+              "name": "CrawlXpaths",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteCrawl",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "startCrawl",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "configureCrawl",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkCrawlStarted",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "stopCrawlFromButton",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkSearchinLogs",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkListElementsOfCrawl",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "goToConfigureCrawl",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

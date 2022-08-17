@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Uploading new buildsAutomatically runni_88fd00</name>
+   <tag></tag>
+   <elementGuidId>0e24bbf8-0f9d-43f7-858a-2b369f11a24d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>intercom-messenger-card-list-item intercom-wlajoz e1b3yklj0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uploading new buildsAutomatically running tests…</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;intercom-container&quot;)/div[1]/div[1]/div[@class=&quot;intercom-messenger intercom-messenger-home-screen intercom-9zqtqz e16fp1gy0&quot;]/div[@class=&quot;intercom-1xafcqx e8111ny0&quot;]/div[@class=&quot;intercom-home-screen intercom-1a6uzeh ejdnm0c1 intercom-messenger-body-view-appear-done intercom-messenger-body-view-enter-done&quot;]/div[@class=&quot;intercom-u5foh5 ejdnm0c2&quot;]/div[@class=&quot;intercom-1clbhc1 ejdnm0c3&quot;]/div[1]/div[@class=&quot;intercom-home-screen-messenger-card intercom-home-screen-messenger-card-0 intercom-0 ejdnm0c0 intercom-messenger-card-failed-animation-appear-done intercom-messenger-card-failed-animation-enter-done&quot;]/div[@class=&quot;intercom-messenger-card-wrapper intercom-r18meb eoau2rn0&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;intercom-messenger-card-body intercom-icbmz8 e6v5kix0&quot;]/div[@class=&quot;intercom-zteh7t e1hl8kc40&quot;]/div[1]/div[1]/div[@class=&quot;intercom-messenger-card-component&quot;]/div[@class=&quot;intercom-1xftouw e6km4ip0&quot;]/div[@class=&quot;intercom-messenger-card-list-item intercom-wlajoz e1b3yklj0&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR_Help/NewPageResources/iframe_Latest Run_intercom-messenger-frame</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='intercom-container']/div/div/div/div[3]/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[4]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Search results for ', '&quot;', 'build upload', '&quot;', '')])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find your answer now'])[1]/following::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[4]/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

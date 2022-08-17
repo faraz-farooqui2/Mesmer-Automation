@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>var_searchTerm</name>
+   <tag></tag>
+   <elementGuidId>4e7dcbc0-93cc-4531-89df-dfbcf98cdbb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//popover-container/div[2]/app-add-new-test-data/div/div[2]/div[2]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//popover-container/div[2]/app-add-new-test-data/div/div[2]/div[2]/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

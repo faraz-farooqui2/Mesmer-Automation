@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taskAwaitingADevice_replayFilter</name>
+   <tag></tag>
+   <elementGuidId>021bfa14-7198-4f3a-8b39-86ed1b9004f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;textLinks&quot;]/a[contains(text(),&quot;Replay&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;textLinks&quot;]/a[contains(text(),&quot;Replay&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

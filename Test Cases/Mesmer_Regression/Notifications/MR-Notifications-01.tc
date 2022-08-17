@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MR-Notifications-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>679fd07a-93a4-4023-a274-03c2711b1695</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/button_Notifications')</defaultValue>
+      <description></description>
+      <id>4329a5ac-74a1-47a8-b21d-7af5ebe93e88</id>
+      <masked>false</masked>
+      <name>btnNotify</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/header_Notifications')</defaultValue>
+      <description></description>
+      <id>0bdf3cb1-4934-484a-9e3a-4242b12ffab8</id>
+      <masked>false</masked>
+      <name>headerNotifications</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/verifyMarkAllAsRead')</defaultValue>
+      <description></description>
+      <id>ecfbe167-65f6-437a-a157-1ee9fa58bf30</id>
+      <masked>false</masked>
+      <name>txtMarkAllAsRead</name>
+   </variable>
+</TestCaseEntity>

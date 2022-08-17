@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_ReplayDeviceResolution</name>
+   <tag></tag>
+   <elementGuidId>71d57390-0630-433a-a902-f84dff4dc6fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-test-result-detail/div[2]/div/div/div/div[2]/div[1]/div[2]/div[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-test-result-detail/div[2]/div/div/div/div[2]/div[1]/div[2]/div[2]/span[2]</value>
+   </webElementProperties>
+</WebElementEntity>

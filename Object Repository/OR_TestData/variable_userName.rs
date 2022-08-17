@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>variable_userName</name>
+   <tag></tag>
+   <elementGuidId>f4b789bd-a20a-4763-aa8d-ca126c0341c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//popover-container/div[2]/app-add-new-test-data/div/div[2]/div[2]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//popover-container/div[2]/app-add-new-test-data/div/div[2]/div[2]/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

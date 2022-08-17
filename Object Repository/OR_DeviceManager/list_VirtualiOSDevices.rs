@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_VirtualiOSDevices</name>
+   <tag></tag>
+   <elementGuidId>ab90d723-5b51-457e-b327-8f03c40e7cae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'iOS')]/parent::div/following-sibling::div/div[contains(@class,'virtual')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'iOS')]/parent::div/following-sibling::div/div[contains(@class,'virtual')]</value>
+   </webElementProperties>
+</WebElementEntity>

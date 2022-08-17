@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_CsvReport</name>
+   <tag></tag>
+   <elementGuidId>346ad4f2-de61-4ee3-8fba-90905821efa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;actionItems&quot;]/a[@class=&quot;csvReport&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;actionItems&quot;]/a[@class=&quot;csvReport&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

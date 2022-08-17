@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>confimation_testCaseSave</name>
+   <tag></tag>
+   <elementGuidId>b47e4d34-1c4a-41c5-becc-52af2470c8a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;contents&quot;]/descendant::div[@class=&quot;msgText&quot;]/text()</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;contents&quot;]/descendant::div[@class=&quot;msgText&quot;]/text()</value>
+   </webElementProperties>
+</WebElementEntity>

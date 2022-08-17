@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testCase_OptionPassed</name>
+   <tag></tag>
+   <elementGuidId>9f486b46-b213-4dee-ae68-2bf97f4ed2d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='textLinks']/a[text()[contains(.,&quot;Passed&quot;)]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='textLinks']/a[text()[contains(.,&quot;Passed&quot;)]]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>optionTag</name>
+   <tag></tag>
+   <elementGuidId>319014e3-e326-4a1b-a33d-38ac666dc8fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@class='dropdownWrap']/li[contains(text(),'Max_ops')]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@class='dropdownWrap']/li[contains(text(),'Max_ops')]
+</value>
+   </webElementProperties>
+</WebElementEntity>

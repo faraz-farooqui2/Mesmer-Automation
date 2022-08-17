@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deviceQueue_testCaseCrawlName</name>
+   <tag></tag>
+   <elementGuidId>b190ccbc-840a-4ccc-866d-287ac6aaab39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),&quot;Queue&quot;)]/parent::div[@class=&quot;tableTitleRow&quot;]/following-sibling::div[1]/div[@class=&quot;list&quot;]/div/div/div[3]/div[contains(text(),&quot;---&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),&quot;Queue&quot;)]/parent::div[@class=&quot;tableTitleRow&quot;]/following-sibling::div[1]/div[@class=&quot;list&quot;]/div/div/div[3]/div[contains(text(),&quot;---&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

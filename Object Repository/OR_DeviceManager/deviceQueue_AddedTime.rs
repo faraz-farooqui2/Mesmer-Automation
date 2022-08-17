@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deviceQueue_AddedTime</name>
+   <tag></tag>
+   <elementGuidId>13739527-06e7-4d7d-8b61-16e0da15d1d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),&quot;Queue&quot;)]/parent::div[@class=&quot;tableTitleRow&quot;]/following-sibling::div[1]/div[@class=&quot;list&quot;]/div/div/div[5]/div[@class=&quot;time&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),&quot;Queue&quot;)]/parent::div[@class=&quot;tableTitleRow&quot;]/following-sibling::div[1]/div[@class=&quot;list&quot;]/div/div/div[5]/div[@class=&quot;time&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

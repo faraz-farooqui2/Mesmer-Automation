@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_ReplayedTests</name>
+   <tag></tag>
+   <elementGuidId>36060a1b-6ae2-4ad7-8939-acc956464610</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[starts-with(@class,&quot;deviceStream&quot;)]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[starts-with(@class,&quot;deviceStream&quot;)]/div</value>
+   </webElementProperties>
+</WebElementEntity>

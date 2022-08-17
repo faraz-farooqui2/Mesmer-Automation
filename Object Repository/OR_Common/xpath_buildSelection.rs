@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>xpath_buildSelection</name>
+   <tag></tag>
+   <elementGuidId>be2cf40b-bd8d-466f-88c6-68c6eda5ea5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;appName&quot;)]/span[contains(text(),&quot;&lt;pBN>&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;appName&quot;)]/span[contains(text(),&quot;&lt;pBN>&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

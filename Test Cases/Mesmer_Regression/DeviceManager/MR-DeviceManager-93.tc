@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MS-Replay-01 | Verify that user should be able to replay a test case successfully by selecting or not selecting the device. (Physical/emulator).</description>
+   <name>MR-DeviceManager-93</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b873b8dc-91e4-4607-8c9f-b80759b4f886</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>info_Resolution</name>
+   <tag></tag>
+   <elementGuidId>ce021930-2f3f-443d-9df6-3862de6619bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='infoDiv']/strong[contains(text(),'Resolution:')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='infoDiv']/strong[contains(text(),'Resolution:')]</value>
+   </webElementProperties>
+</WebElementEntity>

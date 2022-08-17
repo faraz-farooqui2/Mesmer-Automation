@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can see project selection menu when build is uploaded successfully</description>
+   <name>MR-UploadNewBuild-27</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>758ded67-91a2-486b-850c-31c36f6b6d28</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>451385dd-44df-4e65-813b-6f0b98f4eb48</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20d00929-24fe-46b5-b08c-542c17c1cd68</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>85482a42-6e4a-49b3-852a-f30a2465e55f</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa2d8498-a49c-4cf3-a124-42c8266c549f</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aaed9c1e-b1ca-4542-b9f6-5b5598073fbf</id>
+      <masked>false</masked>
+      <name>xpString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>3682336b-0215-4c4c-ae62-9fa92edeb03a</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b36dd15-4a4d-4c89-a8bc-00a32bdbab00</id>
+      <masked>false</masked>
+      <name>buildName</name>
+   </variable>
+</TestCaseEntity>

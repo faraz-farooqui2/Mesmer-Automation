@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_btnDeleteAddedUser</name>
+   <tag></tag>
+   <elementGuidId>4729bb70-d4df-4ac6-86e4-a1447ee7434e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-icon[contains(@class,'miniClose')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//mat-icon[contains(@class,'miniClose')]</value>
+   </webElementProperties>
+</WebElementEntity>

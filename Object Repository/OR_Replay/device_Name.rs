@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>device_Name</name>
+   <tag></tag>
+   <elementGuidId>ae7009b3-007e-4712-b5c0-f53ea8787cfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;deviceDetails&quot;]/div[@class=&quot;infoText&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;deviceDetails&quot;]/div[@class=&quot;infoText&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

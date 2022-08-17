@@ -1,0 +1,663 @@
+{
+	"recording_apps": [{
+			"projectName": "SandboxAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google pixel3",
+			"recording_Steps": [{
+					"offset_x": "-125",
+					"offset_y": "0",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "65",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "-100",
+					"offset_y": "-10",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+
+		{
+			"projectName": "SandboxAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus6p",
+			"recording_Steps": [{
+					"offset_x": "-120",
+					"offset_y": "-15",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "-100",
+					"offset_y": "-12",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "70",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+
+		{
+			"projectName": "SandboxAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus5",
+			"recording_Steps": [{
+					"offset_x": "-118",
+					"offset_y": "-15",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+
+				{
+					"offset_x": "-100",
+					"offset_y": "-10",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+
+		{
+			"projectName": "SandboxiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone Xʀ",
+			"recording_Steps": [{
+					"offset_x": "-100",
+					"offset_y": "30",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "20"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "90",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "SandboxiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 8 Plus",
+			"recording_Steps": [{
+					"offset_x": "-100",
+					"offset_y": "45",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "95",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "SandboxAndroidRecord",
+			"platformName": "android",
+			"deviceName": "samsung SM-G981U1",
+			"recording_Steps": [{
+					"offset_x": "-130",
+					"offset_y": "80",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "145",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "-100",
+					"offset_y": "80",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "140",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "SandboxiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 7 Plus",
+			"recording_Steps": [{
+					"offset_x": "-100",
+					"offset_y": "45",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "95",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+
+		{
+			"projectName": "CertifyAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google pixel3",
+			"recording_Steps": [{
+					"offset_x": "-125",
+					"offset_y": "0",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "65",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "-100",
+					"offset_y": "-10",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+
+		{
+			"projectName": "CertifyAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus6p",
+			"recording_Steps": [{
+					"offset_x": "-120",
+					"offset_y": "-15",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "-100",
+					"offset_y": "-12",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "70",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+
+		{
+			"projectName": "CertifyAndroidRecord",
+			"platformName": "android",
+			"deviceName": "Google nexus5",
+			"recording_Steps": [{
+					"offset_x": "-118",
+					"offset_y": "-15",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+
+				{
+					"offset_x": "-100",
+					"offset_y": "-10",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "50",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "CertifyiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 7 Plus",
+			"recording_Steps": [{
+					"offset_x": "-100",
+					"offset_y": "45",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "80",
+					"offset_y": "40",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "95",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "CertifyiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 8 Plus",
+			"recording_Steps": [{
+					"offset_x": "-100",
+					"offset_y": "45",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "80",
+					"offset_y": "40",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "95",
+					"action": "tapAction",
+					"action_delay": "10"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "CertifyiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone Xʀ",
+			"recording_Steps": [{
+					"offset_x": "-100",
+					"offset_y": "30",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "20"
+				},
+				{
+					"offset_x": "80",
+					"offset_y": "30",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "90",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "CertifyiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 12 Pro Max",
+			"recording_Steps": [{
+					"offset_x": "-120",
+					"offset_y": "90",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "50",
+					"offset_y": "50",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "50",
+					"offset_y": "50",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "50",
+					"offset_y": "115",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-40",
+					"offset_y": "200",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-30",
+					"offset_y": "80",
+					"action": "orientation",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "CertifyiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 12 Pro",
+			"recording_Steps": [{
+					"offset_x": "-120",
+					"offset_y": "75",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "50",
+					"offset_y": "40",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "40",
+					"offset_y": "100",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-40",
+					"offset_y": "210",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-25",
+					"offset_y": "80",
+					"action": "orientation",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "CertifyiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 12 mini",
+			"recording_Steps": [{
+					"offset_x": "-120",
+					"offset_y": "75",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "50",
+					"offset_y": "40",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "40",
+					"offset_y": "100",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-40",
+					"offset_y": "210",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-25",
+					"offset_y": "80",
+					"action": "orientation",
+					"action_delay": "15"
+				}
+			]
+		},
+		{
+			"projectName": "CertifyiOSRecord",
+			"platformName": "apple",
+			"deviceName": "iPhone 11 Pro",
+			"recording_Steps": [{
+					"offset_x": "-120",
+					"offset_y": "75",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "input_username",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "50",
+					"offset_y": "40",
+					"action": "longPress",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "40",
+					"offset_y": "100",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "0",
+					"offset_y": "0",
+					"action": "swipe",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-40",
+					"offset_y": "280",
+					"action": "tapAction",
+					"action_delay": "15"
+				},
+				{
+					"offset_x": "-25",
+					"offset_y": "80",
+					"action": "orientation",
+					"action_delay": "15"
+				}
+			]
+		}
+	]
+}

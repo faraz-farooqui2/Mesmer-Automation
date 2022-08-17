@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testCase_OptionNew</name>
+   <tag></tag>
+   <elementGuidId>9de9cc42-5d88-4591-9090-69bdbc86eceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='textLinks']/a[text()[contains(.,&quot;New&quot;)]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='textLinks']/a[text()[contains(.,&quot;New&quot;)]]</value>
+   </webElementProperties>
+</WebElementEntity>

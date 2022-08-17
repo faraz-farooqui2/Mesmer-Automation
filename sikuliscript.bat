@@ -1,0 +1,1 @@
+java -jar C:\Users\Administrator\Downloads\sikulixapi.jar -r C:\Users\Administrator\Documents\SikuliFromKatalon.sikuli

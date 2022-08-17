@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_ResultOptionMenu</name>
+   <tag></tag>
+   <elementGuidId>47718ed0-2e0c-48ca-b547-3bcba2845640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@containerclass,&quot;resultOptionsMenu&quot;)]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@containerclass,&quot;resultOptionsMenu&quot;)]/span</value>
+   </webElementProperties>
+</WebElementEntity>

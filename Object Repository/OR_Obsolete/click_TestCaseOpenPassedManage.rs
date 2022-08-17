@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_TestCaseOpenPassedManage</name>
+   <tag></tag>
+   <elementGuidId>cae42680-422f-43e5-8950-ca3a4a03ea7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='title']/span[contains(text(),'ManageTest-10')]/ancestor::div[@class='testcase-detail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='title']/span[contains(text(),'ManageTest-10')]/ancestor::div[@class='testcase-detail']</value>
+   </webElementProperties>
+</WebElementEntity>

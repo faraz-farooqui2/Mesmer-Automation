@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "38BD590941423320D8C9846685389038",
+  "keywordClasses": [
+    {
+      "name": "controllers.HelpChatController",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

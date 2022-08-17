@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select device filters from Device Manager</description>
+   <name>MS-DeviceManager-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c80d1d91-20e7-4b26-86b3-0d6f1c3ee780</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_AllDevices')</defaultValue>
+      <description></description>
+      <id>911408f5-927a-440c-bf39-c15b6572f0b1</id>
+      <masked>false</masked>
+      <name>allDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_AndroidDevices')</defaultValue>
+      <description></description>
+      <id>35e79289-65bb-41cf-87ce-5a6cfc41bc52</id>
+      <masked>false</masked>
+      <name>androidDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_iOSDevices')</defaultValue>
+      <description></description>
+      <id>b43e2fea-bc35-4f27-b1e6-81474ba29ad5</id>
+      <masked>false</masked>
+      <name>iOSDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_PhysicalDevices')</defaultValue>
+      <description></description>
+      <id>cfe94d76-a26e-4eb1-a7ff-b336f4060d81</id>
+      <masked>false</masked>
+      <name>physicalDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_Virtual')</defaultValue>
+      <description></description>
+      <id>38442e8d-de0d-41f9-8c13-be2cad6eceec</id>
+      <masked>false</masked>
+      <name>virtualDevices</name>
+   </variable>
+</TestCaseEntity>

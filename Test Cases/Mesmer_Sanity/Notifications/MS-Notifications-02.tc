@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is getting all the required notifications in Notifications tab.</description>
+   <name>MS-Notifications-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19ccf01a-576e-4fa1-8716-dd54bb6e3b04</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/verifyNotificationHeader')</defaultValue>
+      <description></description>
+      <id>e624dc47-e37d-47ad-96d6-9d84e8d999f3</id>
+      <masked>false</masked>
+      <name>notificationHeader</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/verifyMarkAllAsRead')</defaultValue>
+      <description></description>
+      <id>83bdf371-6d78-400f-91ac-3fe65b1e9823</id>
+      <masked>false</masked>
+      <name>markAllAsRead</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/text_NoNotifications')</defaultValue>
+      <description></description>
+      <id>4175c10e-0328-4a78-85df-9025d1ef943e</id>
+      <masked>false</masked>
+      <name>textNoNotifications</name>
+   </variable>
+</TestCaseEntity>

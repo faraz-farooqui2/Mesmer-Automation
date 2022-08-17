@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_DeviceDetailsReadySelected</name>
+   <tag></tag>
+   <elementGuidId>2c7604b5-5b9a-4709-a113-1288e53de40c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;selected&quot;)]/descendant::div[contains(@class,'deviceDetails')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;selected&quot;)]/descendant::div[contains(@class,'deviceDetails')]</value>
+   </webElementProperties>
+</WebElementEntity>

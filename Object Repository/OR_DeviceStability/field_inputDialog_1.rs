@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_inputDialog_1</name>
+   <tag></tag>
+   <elementGuidId>5eb46845-408d-4370-87cf-c17018d4f06e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;input-field&quot;)]/input[contains(@placeholder,&quot;Value&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;input-field&quot;)]/input[contains(@placeholder,&quot;Value&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

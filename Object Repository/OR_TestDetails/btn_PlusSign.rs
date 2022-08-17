@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_PlusSign</name>
+   <tag></tag>
+   <elementGuidId>70884964-7dff-4ba1-88ac-a0d5fb48972a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;stepsPane-3&quot;]/div[@class=&quot;actionMenuWrapper&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;stepsPane-3&quot;]/div[@class=&quot;actionMenuWrapper&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

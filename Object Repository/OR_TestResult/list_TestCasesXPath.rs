@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_TestCasesXPath</name>
+   <tag></tag>
+   <elementGuidId>593b7de9-84b2-417a-89d6-7ab7b3026988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-test-results-tiles[@class=&quot;vScrollCards&quot;]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-test-results-tiles[@class=&quot;vScrollCards&quot;]/div/a</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_clone</name>
+   <tag></tag>
+   <elementGuidId>23ce4ac3-d817-4ab5-85dd-779bda73c6c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='tileStream']/a/div[@class='mat-card-title']/span[@title='Test-clone-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='tileStream']/a/div[@class='mat-card-title']/span[@title='Test-clone-1']</value>
+   </webElementProperties>
+</WebElementEntity>

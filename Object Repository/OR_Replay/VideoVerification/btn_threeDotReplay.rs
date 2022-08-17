@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_threeDotReplay</name>
+   <tag></tag>
+   <elementGuidId>b461c7a4-399c-4482-b586-6f0248e32b4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;deviceStream&quot;)]/div[2]/descendant::span[contains(@class,&quot;ellipsis&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;deviceStream&quot;)]/div[2]/descendant::span[contains(@class,&quot;ellipsis&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

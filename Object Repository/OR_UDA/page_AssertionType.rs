@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>page_AssertionType</name>
+   <tag></tag>
+   <elementGuidId>c7f885c5-73f4-4e48-8642-ea6290a19180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'inputAssertion')]/descendant::option[contains(text(),'assertion')]/parent::select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'inputAssertion')]/descendant::option[contains(text(),'assertion')]/parent::select</value>
+   </webElementProperties>
+</WebElementEntity>

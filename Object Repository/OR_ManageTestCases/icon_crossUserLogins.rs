@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_crossUserLogins</name>
+   <tag></tag>
+   <elementGuidId>f8d3857c-b0aa-4cc0-a9e9-58d1f0bc86b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;mat-chip-list-wrapper&quot;]/descendant::mat-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;mat-chip-list-wrapper&quot;]/descendant::mat-icon</value>
+   </webElementProperties>
+</WebElementEntity>

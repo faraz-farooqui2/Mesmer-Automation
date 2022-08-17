@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-Notifications-02 | Verify user can see all Notifications</description>
+   <name>MR-Notifications-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1022a860-f95c-41ee-9806-6a2e6d8f8b03</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_AddInviteIcon')</defaultValue>
+      <description></description>
+      <id>8d7fb0e2-0561-4ef4-a341-bddad88d6678</id>
+      <masked>false</masked>
+      <name>AddInviteIcon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_Invite')</defaultValue>
+      <description></description>
+      <id>c18455e1-8d34-4c4c-b217-e3e0894af576</id>
+      <masked>false</masked>
+      <name>Invite</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/input_InviteEmailField')</defaultValue>
+      <description></description>
+      <id>8a813e85-ce96-41df-968e-a0b2bfbcee7f</id>
+      <masked>false</masked>
+      <name>InviteEmailField</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/verify_InviteUserEmailAddress')</defaultValue>
+      <description></description>
+      <id>256e0d97-c148-4771-81f2-10d3b5beac4f</id>
+      <masked>false</masked>
+      <name>InviteUserEmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/notification_SendingInvite')</defaultValue>
+      <description></description>
+      <id>96755f34-4193-46e6-8b37-39a3802e2724</id>
+      <masked>false</masked>
+      <name>notificationSendingInvite</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/notification_youHave1NewNotification')</defaultValue>
+      <description></description>
+      <id>bcaf5f2f-d95b-4a3f-bfe8-34c41cb1638c</id>
+      <masked>false</masked>
+      <name>notificationNew</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/button_Notifications')</defaultValue>
+      <description></description>
+      <id>5d1e45e3-af20-4ff1-a1f5-42a8cfec076a</id>
+      <masked>false</masked>
+      <name>btnNotify</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dots_Icon</name>
+   <tag></tag>
+   <elementGuidId>e3b5e42a-4397-480c-adf5-23000e35cac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-home/div/app-manage-test-cases/div[2]/div/div[2]/app-manage-test-case-list/div[1]/div[2]/app-test-case-tile-header/div/div[2]/div/div/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-home/div/app-manage-test-cases/div[2]/div/div[2]/app-manage-test-case-list/div[1]/div[2]/app-test-case-tile-header/div/div[2]/div/div/a[5]</value>
+   </webElementProperties>
+</WebElementEntity>

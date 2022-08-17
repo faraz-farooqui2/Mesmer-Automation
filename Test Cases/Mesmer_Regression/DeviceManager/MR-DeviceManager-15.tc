@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select device filters from Device Manager</description>
+   <name>MR-DeviceManager-15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df3499c6-a042-4487-9df1-9f59434caed4</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/confirmation_rebootInUse')</defaultValue>
+      <description></description>
+      <id>4f918b95-58ba-4801-862f-5c314b41314c</id>
+      <masked>false</masked>
+      <name>confirmationDialogueReboot</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/btn_close')</defaultValue>
+      <description></description>
+      <id>172a300c-10ed-4871-b696-cca2048e7937</id>
+      <masked>false</masked>
+      <name>btnClose</name>
+   </variable>
+</TestCaseEntity>

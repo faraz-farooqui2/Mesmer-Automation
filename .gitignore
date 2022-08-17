@@ -1,0 +1,11 @@
+bin/*
+Reports/*
+Plugins/*
+Libs/*
+settings/*
+.classpath
+.project
+/bin/
+MesmerSanity.prj
+Resources/Data Files/~$RegressionDataFile.xlsx
+Resources/Data Files/~$SanityDataFile.xlsx

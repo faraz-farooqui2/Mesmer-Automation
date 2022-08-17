@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_SelectedDeviceOSVersion</name>
+   <tag></tag>
+   <elementGuidId>a7d4b78e-2e11-4f46-8d00-a3a08cac1658</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;selected&quot;)]/descendant::div[contains(@class,'deviceDetails')]/div[contains(@class,'infoText')]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;selected&quot;)]/descendant::div[contains(@class,'deviceDetails')]/div[contains(@class,'infoText')]/span[2]</value>
+   </webElementProperties>
+</WebElementEntity>

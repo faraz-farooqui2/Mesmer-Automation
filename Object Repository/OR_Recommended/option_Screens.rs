@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_Screens</name>
+   <tag></tag>
+   <elementGuidId>096bb68f-eb76-4e80-89d6-960261c9aa6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='filterLinks']/div[@class='filterItem']/label[contains(text(),'Screens')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='filterLinks']/div[@class='filterItem']/label[contains(text(),'Screens')]</value>
+   </webElementProperties>
+</WebElementEntity>

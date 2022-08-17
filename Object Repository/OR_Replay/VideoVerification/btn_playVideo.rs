@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_playVideo</name>
+   <tag></tag>
+   <elementGuidId>c850bef6-8017-47c7-a6e9-a5674d11bfa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//vg-play-pause[@vgfor=&quot;singleVideo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//vg-play-pause[@vgfor=&quot;singleVideo&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

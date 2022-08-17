@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testCase_OptionBroken</name>
+   <tag></tag>
+   <elementGuidId>6550d54e-a21d-47c8-a1a8-d03dbc162b54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='textLinks']/a[text()[contains(.,&quot;Broken&quot;)]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='textLinks']/a[text()[contains(.,&quot;Broken&quot;)]]</value>
+   </webElementProperties>
+</WebElementEntity>

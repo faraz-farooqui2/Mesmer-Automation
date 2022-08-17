@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D184E6914155F73EE61B6BA3A823F258",
+  "keywordClasses": [
+    {
+      "name": "controllers.DeviceManagerController",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

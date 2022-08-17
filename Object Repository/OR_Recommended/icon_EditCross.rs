@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_EditCross</name>
+   <tag></tag>
+   <elementGuidId>ed38e69d-4f40-4729-921a-b54c1ae2c9a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times-circle-o.CP.ng-tns-c16-26.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times-circle-o CP ng-tns-c16-26 ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutalign</name>
+      <type>Main</type>
+      <value>start center</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Close</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper translateFullScreenExit&quot;]/app-recommended-test-cases[@class=&quot;ng-tns-c16-26 ng-star-inserted&quot;]/div[@class=&quot;contentPanelContainer&quot;]/div[@class=&quot;contentPanel&quot;]/div[@class=&quot;vScrollCards contentPanelFooter&quot;]/div[@class=&quot;streamWrap ng-tns-c16-26 ng-star-inserted&quot;]/div[@class=&quot;actionPanel CP&quot;]/div[@class=&quot;titleWrap ng-tns-c16-26 ng-star-inserted&quot;]/div[@class=&quot;input-field titleNOF ng-tns-c16-26 ng-star-inserted&quot;]/i[@class=&quot;fa fa-times-circle-o CP ng-tns-c16-26 ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listOfUsersAdded</name>
+   <tag></tag>
+   <elementGuidId>30590cbc-f042-4d5a-a9fb-66f5f95612ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'mat-chip-list-wrapper')]/div[contains(@class,'matChipWrapper')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'mat-chip-list-wrapper')]/div[contains(@class,'matChipWrapper')]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_EditClose</name>
+   <tag></tag>
+   <elementGuidId>fd89da99-b3f3-4b21-8c82-d9a500688327</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;titleTags&quot;]/div/i[@title=&quot;Close&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;titleTags&quot;]/div/i[@title=&quot;Close&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

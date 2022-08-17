@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_closeWatchReplay</name>
+   <tag></tag>
+   <elementGuidId>8fbc8051-d325-4fe2-aa9c-6ca1d1f75b49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(text(),'Watch')]/parent::div/preceding-sibling::div[@class='closeNav']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Watch')]/parent::div/preceding-sibling::div[@class='closeNav']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>info_OS</name>
+   <tag></tag>
+   <elementGuidId>5a7a2b74-5252-4adf-8cc8-77026225c1e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='infoDiv']/strong[contains(text(),'OS:')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='infoDiv']/strong[contains(text(),'OS:')]</value>
+   </webElementProperties>
+</WebElementEntity>

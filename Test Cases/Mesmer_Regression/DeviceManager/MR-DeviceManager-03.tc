@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select device filters from Device Manager</description>
+   <name>MR-DeviceManager-03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbafa0f0-3716-4af2-a4f7-8cccf1187807</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_AllDevices')</defaultValue>
+      <description></description>
+      <id>ecaf2624-49d0-4bf6-a81f-ec4020f13337</id>
+      <masked>false</masked>
+      <name>allDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_AndroidDevices')</defaultValue>
+      <description></description>
+      <id>b7c3de64-444e-4060-817d-bc954a7523a9</id>
+      <masked>false</masked>
+      <name>androidDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_iOSDevices')</defaultValue>
+      <description></description>
+      <id>10920e09-f64f-465b-8747-53e00ada451c</id>
+      <masked>false</masked>
+      <name>iOSDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_PhysicalDevices')</defaultValue>
+      <description></description>
+      <id>8faceaad-53fd-4825-84a8-d0eb47daf16c</id>
+      <masked>false</masked>
+      <name>physicalDevices</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/option_Virtual')</defaultValue>
+      <description></description>
+      <id>ce0965c1-c364-42d6-840b-4f9b94c8794a</id>
+      <masked>false</masked>
+      <name>virtualDevices</name>
+   </variable>
+</TestCaseEntity>

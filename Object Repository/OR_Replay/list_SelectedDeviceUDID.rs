@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_SelectedDeviceUDID</name>
+   <tag></tag>
+   <elementGuidId>0f1d4ede-0b0b-4c2f-89b1-4ffea6e9393d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'selected')]/descendant::span[contains(@class,'deviceUDID')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'selected')]/descendant::span[contains(@class,'deviceUDID')]</value>
+   </webElementProperties>
+</WebElementEntity>

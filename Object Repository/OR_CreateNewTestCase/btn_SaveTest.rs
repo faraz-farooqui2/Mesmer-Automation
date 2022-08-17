@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SaveTest</name>
+   <tag></tag>
+   <elementGuidId>6f7fd4c4-80cd-44d6-8087-db792dea73b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-save-testcase-dlg[contains(@class,&quot;ng-star-inserted&quot;)]/descendant::span[text()=&quot;Save&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-save-testcase-dlg[contains(@class,&quot;ng-star-inserted&quot;)]/descendant::span[text()=&quot;Save&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-Notifications-05 | Clicking on &quot;crawl-finished&quot; notification should redirect user to app map page</description>
+   <name>MR-Notifications-05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af8f1ed9-0e2b-4485-bd5b-1c31b96914ae</testCaseGuid>
+</TestCaseEntity>

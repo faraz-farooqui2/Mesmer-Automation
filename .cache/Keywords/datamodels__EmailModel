@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3B4FC672017F8344203069CEF3983F9B",
+  "keywordClasses": [
+    {
+      "name": "datamodels.EmailModel",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

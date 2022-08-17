@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deviceQueue_deviceName</name>
+   <tag></tag>
+   <elementGuidId>a74e02c3-7cd8-4b3e-9246-f86ebd7d2e0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;simpleWrap&quot;]/div/div[@class=&quot;deviceNameType&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;simpleWrap&quot;]/div/div[@class=&quot;deviceNameType&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

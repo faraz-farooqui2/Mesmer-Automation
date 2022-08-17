@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logout-Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e51ddff-adde-4a5a-b8af-431024d31fff</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_LogIn/image_UserImageLogo')</defaultValue>
+      <description></description>
+      <id>2805014e-1042-4d4f-9bd2-807524f637a9</id>
+      <masked>false</masked>
+      <name>userLogoImage</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_LogIn/List_UserProfile')</defaultValue>
+      <description></description>
+      <id>69722833-efa2-4f20-a093-071d10b6e5f3</id>
+      <masked>false</masked>
+      <name>listUserProfile</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_LogIn/option_LogOut')</defaultValue>
+      <description></description>
+      <id>cde2f8dc-184e-404d-ad78-ac6895c40052</id>
+      <masked>false</masked>
+      <name>logOutOption</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_LogIn/button_Login')</defaultValue>
+      <description></description>
+      <id>0f11785f-1ce9-4075-970d-8f8e92b9658a</id>
+      <masked>false</masked>
+      <name>loginButton</name>
+   </variable>
+</TestCaseEntity>

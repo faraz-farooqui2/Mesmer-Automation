@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MS-Test Details-01 | Verify that when user clicks on a tile/test case from Test Result page a Test Detail page will open (Android project).</description>
+   <name>MS-Test Details-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d5452fa-7824-4cbe-ab52-bce36b6bf2b8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7107a625-bb35-42b2-ab16-d0913a64b09d</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f26d82d-0983-4951-9eb1-4171dbf274e3</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffb92088-5d7f-449d-989a-2ccd24d391c1</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f45161bf-b569-4b1f-b518-1a20523f78f6</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3a4dacd-c2f5-4cb4-899f-4da414b92c58</id>
+      <masked>false</masked>
+      <name>xpathString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>b44ba619-8b3d-4232-8424-4649236d63ba</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_TestDetails/verify_testDetailPage')</defaultValue>
+      <description></description>
+      <id>b023d4d0-1e44-41ff-a56e-350297796228</id>
+      <masked>false</masked>
+      <name>verifyTestCaseTitle</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_TestCase</name>
+   <tag></tag>
+   <elementGuidId>2730fdd1-45af-42f1-8d46-501aa6e42a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;&lt;pChk>&quot;]/ancestor::div[contains(@class,&quot;testcase&quot;)]/div[contains(@class,&quot;round&quot;)]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;&lt;pChk>&quot;]/ancestor::div[contains(@class,&quot;testcase&quot;)]/div[contains(@class,&quot;round&quot;)]/label</value>
+   </webElementProperties>
+</WebElementEntity>

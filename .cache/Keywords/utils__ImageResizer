@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "FA9D6BAEF21DFB0AD2DB54A025BA070F",
+  "keywordClasses": [
+    {
+      "name": "utils.ImageResizer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

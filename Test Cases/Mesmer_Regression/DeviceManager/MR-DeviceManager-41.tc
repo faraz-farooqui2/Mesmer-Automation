@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select device filters from Device Manager</description>
+   <name>MR-DeviceManager-41</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1392e258-7a8c-4093-92e5-1e7ca3e64a6e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceManager/list_StatusBroken')</defaultValue>
+      <description></description>
+      <id>01b3df05-ec7e-4842-ac46-fc025bfb7000</id>
+      <masked>false</masked>
+      <name>brokenStatus</name>
+   </variable>
+</TestCaseEntity>

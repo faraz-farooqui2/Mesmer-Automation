@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AppMap-36 | Verify user can close Configure Crawl popup from cross icon or Cancel button</description>
+   <name>MR-AppMap-36</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45679844-d71f-4fe9-9204-0ee1b03de3c9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d5595e5-a1fc-47d7-8dac-4f9396474c3e</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>700d5e03-ba0b-43c2-a429-d58d775d8c7a</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6c0a084-6921-44d9-9d7f-55c0418e7632</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca3f56fd-5062-4605-9819-6a599bf3d0e7</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>d3a071c9-02d2-463f-91e9-02f70072ea44</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb39d829-765c-4c7d-ac05-f497c86c59f0</id>
+      <masked>false</masked>
+      <name>xpathString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_AppMap/button_3Dots')</defaultValue>
+      <description></description>
+      <id>2b17f356-d5cf-4407-bc85-f26fdd3b1492</id>
+      <masked>false</masked>
+      <name>ThreeDotButton</name>
+   </variable>
+</TestCaseEntity>

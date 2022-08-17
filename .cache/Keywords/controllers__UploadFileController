@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BB1E1D2E1BFF3B2E0CAB94198AA46AD9",
+  "keywordClasses": [
+    {
+      "name": "controllers.UploadFileController",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

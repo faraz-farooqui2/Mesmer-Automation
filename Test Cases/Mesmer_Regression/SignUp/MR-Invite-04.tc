@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-Invite-04 | Empty email in invite users section</description>
+   <name>MR-Invite-04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59238c9f-48f1-4fd8-8be3-9a83f5968ae7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_AddInviteIcon')</defaultValue>
+      <description></description>
+      <id>183b936a-7d48-4ee2-9bdb-bd714ead7e12</id>
+      <masked>false</masked>
+      <name>AddInviteIcon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/input_InviteEmailField')</defaultValue>
+      <description></description>
+      <id>382d7adc-d0da-49ce-86dd-cb2a508abfc4</id>
+      <masked>false</masked>
+      <name>InviteEmailField</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_Invite')</defaultValue>
+      <description></description>
+      <id>9d69e877-7806-4500-b164-a9cf103b1e40</id>
+      <masked>false</masked>
+      <name>Invite</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/txt_InvalidEmailAddress')</defaultValue>
+      <description></description>
+      <id>b101a46e-8a10-4d21-b46e-3c75219b4d64</id>
+      <masked>false</masked>
+      <name>txtInvalidEmailErrorMsg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/btn_Close')</defaultValue>
+      <description></description>
+      <id>9709de2e-7273-46c6-b318-924baced5f77</id>
+      <masked>false</masked>
+      <name>btnClose</name>
+   </variable>
+</TestCaseEntity>

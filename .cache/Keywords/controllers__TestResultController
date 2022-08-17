@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8B27A02852480983B7FA7AB597502B48",
+  "keywordClasses": [
+    {
+      "name": "controllers.TestResultController",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

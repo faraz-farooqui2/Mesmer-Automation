@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testCase_OptionAll</name>
+   <tag></tag>
+   <elementGuidId>ac5cbbe5-73ca-4a73-9433-2a6357d0a5ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='textLinks']/a[text()[contains(.,&quot;All&quot;)]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='textLinks']/a[text()[contains(.,&quot;All&quot;)]]</value>
+   </webElementProperties>
+</WebElementEntity>

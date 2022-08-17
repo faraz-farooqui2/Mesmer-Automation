@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-Invite-01 | Valid email in invite users section</description>
+   <name>MR-Invite-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99aa4df2-259c-4a03-bac1-99c10a106108</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_AddInviteIcon')</defaultValue>
+      <description></description>
+      <id>bc418606-cbea-4952-a132-5b5b17b0fd08</id>
+      <masked>false</masked>
+      <name>AddInviteIcon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/input_InviteEmailField')</defaultValue>
+      <description></description>
+      <id>76fc5fff-2e55-4fc4-a49a-1bbdf311db05</id>
+      <masked>false</masked>
+      <name>InviteEmailField</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/verify_InviteUserEmailAddress')</defaultValue>
+      <description></description>
+      <id>c794b72c-6e3a-419f-bb0b-04037653d8c5</id>
+      <masked>false</masked>
+      <name>InviteUserEmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_Invite')</defaultValue>
+      <description></description>
+      <id>8efd1927-8b32-4c1f-9ece-76d06a89df60</id>
+      <masked>false</masked>
+      <name>Invite</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40e9af7d-dac1-40e8-a463-e760792dda1f</id>
+      <masked>false</masked>
+      <name>emailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/notification_SendingInvite')</defaultValue>
+      <description></description>
+      <id>ad4acddc-bfa1-42ed-b44a-ad7b289b4026</id>
+      <masked>false</masked>
+      <name>notificationSendingInvite</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/notification_youHave1NewNotification')</defaultValue>
+      <description></description>
+      <id>796fe886-895e-48f8-828c-77d374506523</id>
+      <masked>false</masked>
+      <name>notificationNew</name>
+   </variable>
+</TestCaseEntity>

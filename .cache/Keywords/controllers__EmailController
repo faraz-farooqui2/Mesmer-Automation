@@ -1,0 +1,18 @@
+{
+  "keywordFileContentHash": "63C88614C45BC378C218DFF2EE75AE8C",
+  "keywordClasses": [
+    {
+      "name": "controllers.EmailController",
+      "keywordMethods": []
+    },
+    {
+      "name": "controllers.EmailController$1",
+      "keywordMethods": []
+    },
+    {
+      "name": "controllers.EmailController$2",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

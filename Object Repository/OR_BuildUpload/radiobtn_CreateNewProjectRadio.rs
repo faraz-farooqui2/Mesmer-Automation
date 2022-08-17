@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radiobtn_CreateNewProjectRadio</name>
+   <tag></tag>
+   <elementGuidId>a411fb47-a4f1-4ba0-8c2f-5e231418a175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-1&quot;]/app-provide-project-build/div[1]/mat-dialog-content/div/div[1]/div[1]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-1&quot;]/app-provide-project-build/div[1]/mat-dialog-content/div/div[1]/div[1]/label</value>
+   </webElementProperties>
+</WebElementEntity>

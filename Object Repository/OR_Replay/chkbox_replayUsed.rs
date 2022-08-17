@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chkbox_replayUsed</name>
+   <tag></tag>
+   <elementGuidId>60463524-e1a7-413e-aa23-bc3c91e1511c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;Replay-09&quot;]/parent::div/following-sibling::div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;Replay-09&quot;]/parent::div/following-sibling::div/label</value>
+   </webElementProperties>
+</WebElementEntity>

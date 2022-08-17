@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MR-Notifications-03 | Verify the time shown under every notification is correct</description>
+   <name>MR-Notifications-03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d41b0e9-ca30-4aa8-af6c-6ee8f96cc71f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_AddInviteIcon')</defaultValue>
+      <description></description>
+      <id>77592e6a-6f9f-498f-9888-c59a549240f8</id>
+      <masked>false</masked>
+      <name>AddInviteIcon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/button_Invite')</defaultValue>
+      <description></description>
+      <id>5dc47525-a573-4246-8c46-14d7eb2e091f</id>
+      <masked>false</masked>
+      <name>Invite</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/input_InviteEmailField')</defaultValue>
+      <description></description>
+      <id>5958ed3d-2601-49cf-8c53-dc8e3a38f1ec</id>
+      <masked>false</masked>
+      <name>InviteEmailField</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/verify_InviteUserEmailAddress')</defaultValue>
+      <description></description>
+      <id>b4d41bc1-e129-481c-b470-27d6d7dc1f9e</id>
+      <masked>false</masked>
+      <name>InviteUserEmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/notification_SendingInvite')</defaultValue>
+      <description></description>
+      <id>b42dc04f-8af3-4163-b273-756f521a1b4d</id>
+      <masked>false</masked>
+      <name>notificationSendingInvite</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_InviteUser/notification_youHave1NewNotification')</defaultValue>
+      <description></description>
+      <id>e9ed8ad5-256d-49e3-b13b-13e7a4f889e2</id>
+      <masked>false</masked>
+      <name>notificationNew</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_Notifications/button_Notifications')</defaultValue>
+      <description></description>
+      <id>634cf592-028a-4114-948e-4368ff37dbe0</id>
+      <masked>false</masked>
+      <name>btnNotify</name>
+   </variable>
+</TestCaseEntity>

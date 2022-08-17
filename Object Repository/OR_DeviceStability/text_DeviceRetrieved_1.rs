@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_DeviceRetrieved_1</name>
+   <tag></tag>
+   <elementGuidId>aabda661-2655-4cdb-938e-5cbb037471a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'completed')]/div[contains(text(),'Retrieved')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'completed')]/div[contains(text(),'Retrieved')]</value>
+   </webElementProperties>
+</WebElementEntity>

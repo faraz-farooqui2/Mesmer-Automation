@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_overlay2</name>
+   <tag></tag>
+   <elementGuidId>c50e8bf8-93cd-4210-baed-9c0809fd0bb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-home/div/app-test-result-detail/div[2]/div/div/div/div[2]/div[2]/app-test-cases/div/div[3]/mat-card[2]/mat-card-content/div[1]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-home/div/app-test-result-detail/div[2]/div/div/div/div[2]/div[2]/app-test-cases/div/div[3]/mat-card[2]/mat-card-content/div[1]/div[2]/div[2]</value>
+   </webElementProperties>
+</WebElementEntity>

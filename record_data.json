@@ -1,0 +1,338 @@
+{
+  "recording_apps": [
+    {
+    "projectName": "Wingstop Android",
+  "platformName": "android",
+  "deviceName": "",
+  "recording_Steps": [
+    {
+      "offset_x": "130",
+      "offset_y": "-265",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-100",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-100",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "130",
+      "offset_y": "-240",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "-50",
+      "offset_y": "100",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_username",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "30",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_password",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "145",
+      "action": "tapAction",
+      "action_delay": "15"
+    }
+  ]
+    },
+
+    {
+    "projectName": "Starbucks",
+  "platformName": "android",
+  "deviceName": "",
+  "recording_Steps": [
+    {
+      "offset_x": "150",
+      "offset_y": "-140",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-135",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "-120",
+      "offset_y": "-155",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_username",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "-120",
+      "offset_y": "-140",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_password",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "120",
+      "offset_y": "250",
+      "action": "tapAction",
+      "action_delay": "50"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-135",
+      "action": "tapAction",
+      "action_delay": "15"
+    }
+  ]
+    },
+ {
+    "projectName": "Starbucks-Android",
+  "platformName": "android",
+  "deviceName": "",
+  "recording_Steps": [
+    {
+      "offset_x": "150",
+      "offset_y": "-140",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-135",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "-120",
+      "offset_y": "-155",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_username",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "-120",
+      "offset_y": "-140",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_password",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "120",
+      "offset_y": "250",
+      "action": "tapAction",
+      "action_delay": "50"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-135",
+      "action": "tapAction",
+      "action_delay": "15"
+    }
+  ]
+    },
+
+    {
+    "projectName": "Starbucks-iOS",
+  "platformName": "apple",
+  "deviceName": "",
+  "recording_Steps": [
+    {
+      "offset_x": "150",
+      "offset_y": "-160",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-165",
+      "action": "tapAction",
+      "action_delay": "20"
+    },
+    {
+      "offset_x": "-100",
+      "offset_y": "-155",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_username",
+      "action_delay": "20"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "double_enter",
+      "action_delay": "20"
+    },
+    {
+      "offset_x": "-100",
+      "offset_y": "-115",
+      "action": "longPress",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_password",
+      "action_delay": "20"
+    },
+    {
+      "offset_x": "120",
+      "offset_y": "-60",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "120",
+      "offset_y": "280",
+      "action": "tapAction",
+      "action_delay": "50"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-135",
+      "action": "tapAction",
+      "action_delay": "15"
+    }
+  ]
+    },
+{
+    "projectName": "Starbucks - Virtual",
+  "platformName": "apple",
+  "deviceName": "",
+  "recording_Steps": [
+    {
+      "offset_x": "150",
+      "offset_y": "-160",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-165",
+      "action": "tapAction",
+      "action_delay": "20"
+    },
+    {
+      "offset_x": "-100",
+      "offset_y": "-155",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_username",
+      "action_delay": "20"
+    },
+    {
+      "offset_x": "-100",
+      "offset_y": "-115",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "0",
+      "offset_y": "-30",
+      "action": "input_password",
+      "action_delay": "20"
+    },
+    {
+      "offset_x": "120",
+      "offset_y": "-60",
+      "action": "tapAction",
+      "action_delay": "15"
+    },
+    {
+      "offset_x": "120",
+      "offset_y": "280",
+      "action": "tapAction",
+      "action_delay": "50"
+    },
+    {
+      "offset_x": "-40",
+      "offset_y": "-135",
+      "action": "tapAction",
+      "action_delay": "15"
+    }
+  ]
+    },
+{
+    "projectName": "Mesmer",
+  "platformName": "apple",
+  "deviceName": "",
+  "recording_Steps": [
+    {
+      "offset_x": "-150",
+      "offset_y": "-200",
+      "action": "tapAction",
+      "action_delay": "5"
+    },
+    {
+      "offset_x": "20",
+      "offset_y": "-150",
+      "action": "tapAction",
+      "action_delay": "10"
+    },
+    {
+      "offset_x": "-240",
+      "offset_y": "150",
+      "action": "mesmer_app",
+      "action_delay": "10"
+    }
+  ]
+    }
+
+
+    ]
+}

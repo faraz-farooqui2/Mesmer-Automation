@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user should be able to record an iOS test case (Physical/Simulator)</description>
+   <name>MR-DeviceSelection-68</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>406dd44c-b680-4981-999c-893ec5e8eab5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62585f5a-2894-408d-b9cc-60b45134f231</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70a6c2f8-f968-4ef0-926a-a95af297a3ae</id>
+      <masked>false</masked>
+      <name>BuildNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b04adca-9f6a-48d3-9014-fd4c2add8049</id>
+      <masked>false</masked>
+      <name>platformName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b01b28b3-f626-434c-9d36-dd2c0237e614</id>
+      <masked>false</masked>
+      <name>Device</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa171f5c-cce4-49cc-8dbf-b1b4547e1ad2</id>
+      <masked>false</masked>
+      <name>xpathString</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_CreateNewTestCase/project_selection')</defaultValue>
+      <description></description>
+      <id>c8716bed-daa9-4512-b36a-c3b0c991fc39</id>
+      <masked>false</masked>
+      <name>projName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('OR_DeviceCertification/record_InUseDeviceDisabled')</defaultValue>
+      <description></description>
+      <id>396ec8b8-01a0-46af-afed-dae5f44694ae</id>
+      <masked>false</masked>
+      <name>inUseDisable</name>
+   </variable>
+</TestCaseEntity>

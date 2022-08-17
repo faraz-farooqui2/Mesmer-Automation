@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_testCase</name>
+   <tag></tag>
+   <elementGuidId>2a081977-7e3e-4a06-8de9-a2e0a1b97142</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;devicesWrap&quot;]/descendant::div[1]/descendant::span[@class=&quot;titleLimit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;devicesWrap&quot;]/descendant::div[1]/descendant::span[@class=&quot;titleLimit&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

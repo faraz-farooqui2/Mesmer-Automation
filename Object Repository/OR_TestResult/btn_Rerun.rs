@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Rerun</name>
+   <tag></tag>
+   <elementGuidId>56b2b69d-c797-45b1-9d33-a41938ce88aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;actionItems&quot;]/a[@title=&quot;Rerun&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;actionItems&quot;]/a[@title=&quot;Rerun&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

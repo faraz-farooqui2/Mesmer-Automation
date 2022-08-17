@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_executionDate</name>
+   <tag></tag>
+   <elementGuidId>84941b09-1d91-43d8-8dfa-92b70b1f156b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;deviceNameExecutionDate&quot;)]/div[contains(text(),&quot;Baseline&quot;)]/following-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;deviceNameExecutionDate&quot;)]/div[contains(text(),&quot;Baseline&quot;)]/following-sibling::div</value>
+   </webElementProperties>
+</WebElementEntity>

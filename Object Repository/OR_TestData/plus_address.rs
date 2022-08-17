@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>plus_address</name>
+   <tag></tag>
+   <elementGuidId>83d6e0c7-a342-43f3-8eb4-4b12f0d330d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contentPanelContainer&quot;]/div[2]/app-test-case-data/div[1]/div[2]/div/div[2]/span/parent::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contentPanelContainer&quot;]/div[2]/app-test-case-data/div[1]/div[2]/div/div[2]/span/parent::div</value>
+   </webElementProperties>
+</WebElementEntity>
